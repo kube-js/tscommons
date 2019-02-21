@@ -1,0 +1,19 @@
+{
+  "name": "tscommons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kube-js/tscommons.git"
+  },
+  "author": "Mariusz Rajczakowski <mariuszrajczakowski@gmail.com> (http://mariuszrajczakowski.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kube-js/tscommons/issues"
+  },
+  "homepage": "https://github.com/kube-js/tscommons#readme"
+}
