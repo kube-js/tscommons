@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/kube-js/tscommons.git"
   },
-  "author": "Mariusz Rajczakowski <mariuszrajczakowski@gmail.com> (http://mariuszrajczakowski.me)",
+  "author": "Mariusz Rajczakowski <mariuszrajczakowski@pm.me> (http://mariuszrajczakowski.me)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kube-js/tscommons/issues"
