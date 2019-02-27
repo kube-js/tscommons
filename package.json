@@ -1,10 +1,10 @@
 {
-  "name": "tscommons",
-  "version": "1.0.0",
+  "name": "@kube-js/tscommons",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "semantic-release": "semantic-release-public-circleci-lib"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/kube-js/tscommons/issues"
   },
-  "homepage": "https://github.com/kube-js/tscommons#readme"
+  "homepage": "https://github.com/kube-js/tscommons#readme",
+  "devDependencies": {
+    "@kube-js/semantic-release": "^1.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
