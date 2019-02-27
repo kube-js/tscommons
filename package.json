@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kube-js/tscommons#readme",
   "devDependencies": {
-    "@kube-js/semantic-release": "1.0.3"
+    "@kube-js/semantic-release": "1.0.7"
   },
   "publishConfig": {
     "access": "public"
