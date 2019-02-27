@@ -5,4 +5,4 @@ All you need to start your typescript project:
 - tslint.json
 
 Credits:
-[https://github.com/ryansmith94](ryansmith94)
+[ryansmith94](https://github.com/ryansmith94)
