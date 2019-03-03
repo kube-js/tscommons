@@ -117,7 +117,7 @@
     "binary-expression-operand-order": true,
     "callable-types": true,
     "class-name": true,
-    "comment-format": [true, "check-space", "check-uppercase"],
+    "comment-format": [true, "check-space"],
     "comment-type": [true, "doc", "singleline", "multiline"],
     "completed-docs": [false],
     "encoding": true,

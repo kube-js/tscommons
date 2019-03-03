@@ -2,7 +2,7 @@ module.exports = {
   coverageDirectory: "./coverage/",
   collectCoverage: true,
   transform: {
-    ".(ts|js)": "<rootDir>/node_modules/ts-jest/preprocessor.js"
+    ".(ts|tsx)": "ts-jest"
   },
   testEnvironment: "node",
   bail: true,
