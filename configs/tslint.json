@@ -122,7 +122,6 @@
     "completed-docs": [false],
     "encoding": true,
     "file-header": [false],
-    "file-name-casing": [true, { ".tsx": "pascal-case", ".ts": "camel-case" }],
     "import-spacing": true,
     "increment-decrement": true,
     "interface-name": [true, "never-prefix"],
