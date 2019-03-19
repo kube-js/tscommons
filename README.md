@@ -12,7 +12,7 @@
 
 ### tsconfig.json
 
-```json
+```js
 {
   "extends": "./node_modules/@kube-js/tscommons/configs/tsconfig.json",
   // your overrides
@@ -21,7 +21,7 @@
 
 ### tslint.json
 
-```json
+```js
 {
   "extends": [
     "./node_modules/@kube-js/tscommons/configs/tslint.json",
@@ -61,7 +61,7 @@ npm install --save-dev tslint-config-prettier
 ```
 
 Then in tslint.json add:
-```json
+```js
 {
   "extends": [
     "./node_modules/@kube-js/tscommons/configs/tslint.json",
